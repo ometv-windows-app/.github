@@ -36,14 +36,5 @@ A quick look at key parts in action:
 
 ---
 
-## 💡 System Requirements
-**OS:** Windows 10 or later  
-**CPU:** Intel Core i3 or equivalent  
-**RAM:** 4 GB (8 GB recommended for HD video calls)  
-**Storage:** 300 MB free space  
-**Others:** Webcam, microphone, and stable internet connection
-
----
-
 ## 🔍 SEO Keywords
 ometv windows app · ometv desktop app · ometv random video chat pc · ometv meet people windows · ometv stranger video chat desktop · ometv online webcam chat pc · ometv gender filter windows · ometv location filter desktop · ometv hd video chat pc · ometv text chat windows · ometv language exchange desktop · ometv friends list pc · ometv reconnect with users windows · ometv install for windows · ometv instant matching desktop · ometv minimal design · ometv focus mode · ometv random video meeting windows · ometv cultural exchange pc · ometv safe chat desktop
